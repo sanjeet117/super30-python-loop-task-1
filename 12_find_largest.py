@@ -3,8 +3,7 @@ L = [1,2,3,4,5,9,11]
 largest = L[0]
 for i in L:
   if i > largest:
-    largest = i:
-    largest = i
+     largest = i
 print('The largest of list is:',largest)
 
 # through the  loop we compare each element with the largest if any found that will be largest
