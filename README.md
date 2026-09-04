@@ -1,3 +1,26 @@
+# Super 30: Python Loops - Task 1
+
+Practice tasks demonstrating Python loops, sequences, strings, and dictionary manipulations.
+
+---
+
+## Sample Inputs and Outputs
+
+| Script | Description | Sample Input | Sample Output |
+| :--- | :--- | :--- | :--- |
+| `01_print_1_to_100.py` | Numbers 1 to 100 | *None* | `1 2 3 ... 99 100` |
+| `02_even_numbers.py` | Even numbers 1 to 100 | *None* | `2 4 6 ... 98 100` |
+| `03_odd_numbers.py` | Odd numbers 1 to 100 | *None* | `1 3 5 ... 97 99` |
+| `04_multiplication_table.py` | Multiplication table up to 20 | `7` | `7 * 1 = 7 ... 7 * 20 = 140` |
+| `05_sum_of_n_numbers.py` | Sum from 1 to n | `9` | `The total of the number is 45` |
+| `06_factorial.py` | Factorial of n | `5` | `The factorial of the number is 120` |
+| `07_divisible_by_three.py` | Multiples of 3 from list | *None* | `12 9 33 42 15` |
+| `08_string_lengths.py` | Length of language strings | *None* | `the language is Python and its length is 6` ... |
+| `09_dictionary_iteration.py` | Key-value pairs of student | *None* | `name Rahul`<br>`age 22`<br>`course Data Science`<br>`city Bangalore` |
+| `10_count_vowels.py` | Vowel count in string | `Sanjeet` | `The count of vowel in string is: 3` |
+| `11_reverse_string.py` | Reverse string without slicing | `ketan` | `natek` |
+| `12_find_largest.py` | Max item without `max()` | *None* | `The largest of list is: 11` |
+
 ---
 
  Detailed Logic & Approaches
